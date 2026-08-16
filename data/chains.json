@@ -12,7 +12,7 @@
     "explorers": [
       {
         "url": "https://explorer.evm.nvnmchain.io/",
-        "hostedBy": "blockscout"
+        "hostedBy": "self"
       }
     ]
   },
@@ -29,7 +29,7 @@
     "explorers": [
       {
         "url": "https://explorer.evm.testnet.nvnmchain.io/",
-        "hostedBy": "blockscout"
+        "hostedBy": "self"
       }
     ]
   },
