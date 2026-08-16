@@ -4808,7 +4808,7 @@
     "explorers": [
       {
         "url": "https://blockscout.dukong.mantrascan.io/",
-        "hostedBy": "blockscout"
+        "hostedBy": "self"
       }
     ]
   },
